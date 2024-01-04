@@ -1,0 +1,9 @@
+div {
+    width: 700px;
+    height: 500px;
+    border: 3px solid black;
+    background-size:100px auto, 300px auto, 55px auto, cover ;
+    background-position: bottom left, center, bottom center, center;
+    background-repeat: no-repeat, no-repeat, repeat-x, no-repeat;
+    background-image: url(jerry.png),url(tom.png),url(fence-single.png),url(bg.png);
+}
